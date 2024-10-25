@@ -1,8 +1,6 @@
-## Hi there 👋
+# Welcome to my repository! 👋
 
 # ![Banner](./banner.png)
-
-# Welcome to my repository! 👋
 
 Hi, I'm a **Mechatronics Engineer** passionate about software development and the **integration of hardware and software**. This repository showcases some of my projects and contributions in areas such as:
 
