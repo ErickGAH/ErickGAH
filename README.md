@@ -2,7 +2,7 @@
 
 # ![Banner](./banner.png)
 
-Hi, I'm a **Mechatronics Engineer** passionate about software development and the **integration of hardware and software**. This repository showcases some of my projects and contributions in areas such as:
+Hi, I'm a **Mechatronics student** passionate about software development and the **integration of hardware and software**. This repository showcases some of my projects and contributions in areas such as:
 
 - **Cross-platform development** with **.NET MAUI**
 - **Computer vision** using **Python** and **OpenCV**
